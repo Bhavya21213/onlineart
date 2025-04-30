@@ -1,4 +1,5 @@
 Project Title: Online Art Gallery
+
 Project Description:
 The Online Art Gallery is a full-stack web application designed to provide a digital platform for artists to showcase their artwork and for art enthusiasts to explore, appreciate, and purchase
 various forms of visual art. This platform bridges the gap between creators and collectors by offering a seamless, interactive, and user-friendly interface for viewing and managing art collections online.
